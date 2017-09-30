@@ -1,5 +1,5 @@
 # stringutil
-My first library in golang.
+My first library in golang. [tutorial](https://golang.org/doc/code.html).
 
 ## 1. Setup
 ```bash
