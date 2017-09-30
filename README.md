@@ -17,7 +17,8 @@ $ vi .gitignore
 $ git init
 $ git add -A
 $ git commit -m "init repo"
-$ git push
+$ git remote add origin git@github.com:rwibawa/stringutil.git
+$ git push -u origin master
 ```
 
 ### reverse.go
